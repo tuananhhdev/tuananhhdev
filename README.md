@@ -27,7 +27,7 @@
 
 <div align="left">
   
-- 🔭 I’m currently working on <a style="" href="https://github.com/tuananhhdev/Topzone-MERN">Topzone-MERN</a>
+- 💼 I’m currently working on <a style="" href="https://github.com/tuananhhdev/Topzone-MERN">Topzone-MERN</a>
 
 - 🌱 I’m currently learning **Backend**
 
@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **tuananhhdev@gmail.com**
 
-- ⚡ Fun fact **I think i'm handsome :3**
+- ⚡ Fun fact **I think i'm handsome 😅**
 </div>
 
 ###
@@ -77,6 +77,21 @@
 
 
 ## 💻 Languages and Tools :
+- ### Front - End
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,sass,js,react,nextjs"/>
+
+- ### Back - End
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,docker" />
+
+- ### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+- ### ORM
+<img src="https://skillicons.dev/icons?i=sequelize,prisma" />
+
+- ### Tools
+<img src="https://skillicons.dev/icons?i=postman,figma,github,git,photoshop,illustrator" />
+          
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
