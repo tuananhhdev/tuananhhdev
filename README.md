@@ -8,22 +8,9 @@
 <h3>Frontend Developer | Backend Developer</h3>
 </div>
 
-
-
-###
-
-<div>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=tuananhhdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuananhhdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
-  
-</div>
 <br/>
 
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkwa2dpZjFlZ2tyaGhsZWVwN3pid204Z2cwNTl2eTQ2eHkwdzhidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
+<img align="right" width="300" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkwa2dpZjFlZ2tyaGhsZWVwN3pid204Z2cwNTl2eTQ2eHkwdzhidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 <div align="left">
   
@@ -63,9 +50,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tuananhhdev/tuananhhdev/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<br/>
 
-## 🌐 Socials :
+## Profile Views
+<a href="https://github.com/vulebaolong"> <img src="https://komarev.com/ghpvc/?username=vulebaolong&style=for-the-badge&color=brightgreen" /> </a>
+
+## 🌐 Socials 
 <p align="left">
 <a href="https://linkedin.com/in/tuananhhdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuananhhdev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23127030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23127030" height="30" width="40" /></a>
@@ -76,7 +66,7 @@
 <br/>
 
 
-## 💻 Languages and Tools :
+## 💻 Languages and Tools 
 - ### Front - End
 <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,sass,js,react,nextjs"/>
 
@@ -91,7 +81,31 @@
 
 - ### Tools
 <img src="https://skillicons.dev/icons?i=postman,figma,github,git,photoshop,illustrator" />
+
+<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tuananhhdev&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
           
+<br/>
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tuananhhdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tuananhhdev&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tuananhhdev&theme=dracula&hide_border=true)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuananhhdev&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
+## ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=F73384&center=true&vCenter=true&width=435&lines=+Thank+you+for+visiting+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
