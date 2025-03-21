@@ -52,8 +52,10 @@
 
 <br/>
 
-## Profile Views
-<a href="https://github.com/vulebaolong"> <img src="https://komarev.com/ghpvc/?username=vulebaolong&style=for-the-badge&color=brightgreen" /> </a>
+## 👁‍🗨 Profile Views
+<a href="https://github.com/tuananhhdev"> <img src="https://komarev.com/ghpvc/?username=tuananhhdev&style=for-the-badge&color=brightgreen" /> </a>
+
+<br/>
 
 ## 🌐 Socials 
 <p align="left">
