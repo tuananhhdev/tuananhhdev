@@ -70,7 +70,7 @@
 
 ## 💻 Languages and Tools 
 - ### Front - End
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,sass,js,react,nextjs"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,sass,js,react,vite,nextjs"/>
 
 - ### Back - End
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,docker" />
