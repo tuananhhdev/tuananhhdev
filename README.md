@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- ❓ Ask me about **JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- ❓ Ask me about **JavaScript, React, NextJs, Node.js, MongoDB, and RESTful APIs**
 
 - 📫 How to reach me **tuananhhdev@gmail.com**
 
